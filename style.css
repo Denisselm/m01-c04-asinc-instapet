@@ -1,0 +1,112 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Helvetica, sans-serif;
+    }
+    
+    body {
+        background-image: url(https://www.worldofwallpaper.com/media/catalog/product/w/o/wow028_wow_clouds_wallpaper_teal_white_ae1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    h1 {
+        text-align: center;
+        padding: 35px;
+        font-size: 60px;
+        text-shadow: 3px 3px 5px grey;
+        color: gold;
+    }
+    
+    .pets_img {
+        text-align: center;
+        margin-left: 500px;
+    }
+    
+    .container {
+        display: flex;
+    }
+    
+    iframe {
+        width: 1000px;
+        height: auto;
+        margin-left: 30px;
+        margin-right: 20px;
+    }
+    
+    p {
+        text-align: start;
+        padding-top: 20px;
+        margin-right: 20px;
+        font-size: 20px;
+    }
+    
+    h3 {
+        margin: 30px 0 30px 110px;
+        font-size: 40px;
+        color: gold;
+        text-shadow: 2px 2px 4px grey;
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+    
+    label {
+        margin: 0 30px 0 30px;
+    }
+    
+    input,
+    textarea {
+        margin-bottom: 25px;
+        display: block;
+        margin-left: 30px;
+        width: 400px;
+        height: 40px;
+        font-size: 20px;
+        border-radius: 3px;
+    }
+    
+    textarea {
+        height: 100px;
+        text-align: center;
+        color: #999999;
+    }
+    
+    .btn {
+        height: 40px;
+        width: 150px;
+        margin-bottom: 30px;
+        margin-left: 280px;
+        background-color: gold;
+        font-size: 18px;
+        border-radius: 3px;
+    }
+    
+    .article {
+        display: flex;
+    }
+    
+    .map {
+        margin: 18px 0 30px 100px;
+    }
+    
+    .contact {
+        width: 450px;
+        height: 250px;
+        margin: 180px 30px 50px 50px;
+        background-color: #98929263;
+        font-size: 20px;
+        text-align: center;
+        border-radius: 5px;
+    }
+    
+    h4 {
+        color: #ffff;
+        font-size: 25px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    
+    h5 {
+        margin-top: 30px;
+    }
